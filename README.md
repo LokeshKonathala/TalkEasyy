@@ -1,4 +1,4 @@
-# 🚀 Talk-Easy – Real-Time Chat Application 🌐  
+# 🚀 Talk-Easyy – Real-Time Chat Application 🌐  
 
 Talk-Easy is a **full-featured real-time chat application** designed to make connecting with people **seamless, secure, and fun**. Built with **modern web technologies**, it supports instant messaging, media sharing, authentication, and theming.   
 
