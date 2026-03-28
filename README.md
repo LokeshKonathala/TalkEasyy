@@ -1,9 +1,6 @@
 # 🚀 Talk-Easy – Real-Time Chat Application 🌐  
 
-Talk-Easy is a **full-featured real-time chat application** designed to make connecting with people **seamless, secure, and fun**. Built with **modern web technologies**, it supports instant messaging, media sharing, authentication, and theming.  
-
-🔗 **Live Demo:** [Try Talk-Easy](https://talk-easy-zjl5.vercel.app/login)  
-💻 **Source Code:** [GitHub Repository](https://github.com/sathwikpedapati/Talk-Easy)  
+Talk-Easy is a **full-featured real-time chat application** designed to make connecting with people **seamless, secure, and fun**. Built with **modern web technologies**, it supports instant messaging, media sharing, authentication, and theming.   
 
 ---
 
